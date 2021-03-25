@@ -2,7 +2,6 @@
 //  ChatViewController.swift
 //  Chat
 //
-//  Created by Mohamad Mortada on 3/23/21.
 //
 
 import UIKit
